@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Tejashv Choudhary  
 
-<!--
-**Tejashvi15/tejashvi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On  
+- Machine Learning  
+- MERN Stack Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Currently Learning  
+- Full Stack Development  
+- Artificial Intelligence & Machine Learning  
+
+---
+
+## 📫 Connect With Me  
+
+[![LinkedIn](https://www.linkedin.com/in/tejashvi-choudhary-954304274)  
+[![Gmail](tejashvichoudhary24@gmail.com)  
+[![Instagram](https://www.instagram.com/tejashvi_choudhary)  
+
+---
+
+## ⚡ Fun Fact  
+I love blending **creativity with technology**, whether it’s coding, problem-solving, or exploring new innovations 🚀  
+
